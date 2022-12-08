@@ -1,0 +1,50 @@
+
+
+
+#warna_login_regis{
+    background-image:linear-gradient(270deg, rgb(79, 78, 75),  rgb(194, 207, 201), rgb(158, 166, 166));
+}
+
+
+/* #titleformat{
+    color: rgb(4, 4, 4);
+} */
+#hide {
+    display: none !important
+  }
+#login{
+    box-shadow: 5px 5px 10px ;
+    padding: 100px;
+    border-radius: 10px;
+}
+#form{
+    background-color: rgba(161, 227, 227, 0);
+    border-radius: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-shadow: 20px 20px 60px gray ;
+}
+
+#login{
+    margin-left:21% ;
+    margin-right:21% ;
+}
+
+
+#footer{
+    background-color:rgb(85, 86, 86);
+
+    margin-top: 40px;
+}
+
+.navbar a:hover{
+    background-color: rgb(104, 246, 246);
+    border-radius: 6px;
+}
+
+.dropdown {
+    z-index: 999;
+}
