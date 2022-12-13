@@ -35,7 +35,7 @@ if ($query2) {
 
 <body class="font-monospace" id="warna">
   <center>
-    <h1 style="margin-top: 3%;">Dashboard User <?= $_SESSION['nama_admin']; ?></h1>
+    <h1 style="margin-top: 3%;">Dashboard Admin <?= $_SESSION['nama_admin']; ?></h1>
   </center>
   <section id="home">
     <div class="container text-center">
